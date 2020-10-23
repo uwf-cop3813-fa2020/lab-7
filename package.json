@@ -1,0 +1,16 @@
+{
+  "name": "lab-7",
+  "version": "1.0.0",
+  "description": "This is my solution for lab 7.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "E.L. Fridge",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "pino": "^6.7.0"
+  }
+}
