@@ -1,3 +1,3 @@
-#Skeleton App
+#Lab 7
 
-This is a very basic skeleton express app you can use to build from on labs and projects.
+Lab 7 solution.
